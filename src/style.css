@@ -1,0 +1,18 @@
+.mainbox{
+    padding: 6px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.dogimage{
+    height: 200px;
+    width: 200px;
+}
+.containerbox{
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    padding: 6px;
+    box-shadow: dimgray;
+    margin: 6px;
+}
